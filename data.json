@@ -1,0 +1,57 @@
+[
+        {
+            "id":1,
+            "name":"Samsang note",
+            "color":"Black",
+            "price":150000,
+            "category":"Mobile",
+            "photo":"https://png.pngtree.com/png-clipart/20190429/ourmid/pngtree-samsung-galaxy-s10-mockup-with-transparent-background-png-image_996840.jpg",
+            "dec":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+            "id":2,
+            "name":"I Phone",
+            "color":"White",
+            "price":120000,
+            "category":"Mobile",
+            "photo":"https://images.unsplash.com/photo-1555375771-14b2a63968a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aXBob25lJTIwMTB8ZW58MHx8MHx8&w=1000&q=80",
+            "dec":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+            "id":3,
+            "name":"Real Me",
+            "color":"Black",
+            "price":24000,
+            "category":"Mobile",
+            "photo":"https://www.gizbot.com/images/2020-03/realme-6_1583403083130.jpg",
+            "dec":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+            "id":4,
+            "name":"Red Mi",
+            "color":"Black",
+            "price":17000,
+            "category":"Mobile",
+            "photo":"https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k20pro-5.jpg",
+            "dec":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+            "id":5,
+            "name":"Sony",
+            "color":"Black",
+            "price":230000,
+            "category":"Camera",
+            "photo":"https://www.lezzat.co.uk/wp-content/uploads/2021/03/Amazon-Product-Photography-Agency-UK-1.jpg",
+            "dec":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+            "id":6,
+            "name":"Rebook",
+            "color":"Grey",
+            "price":7000,
+            "category":"Shoe",
+            "photo":"https://petapixel.com/assets/uploads/2017/03/product1.jpeg",
+            "dec":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        }
+    ]
+
